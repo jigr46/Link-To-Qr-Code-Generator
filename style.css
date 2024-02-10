@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: 100vh;
+    width: 100vw;
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Container{
+    border-radius: 15px;
+    width: 35vw;
+    background: whitesmoke;
+    border-radius: 15px;
+    height: 43vh;
+    flex-wrap: wrap;
+    box-shadow: 30px 30px 35px 10px #ff0303b6;
+}
+p{
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'Bebas Neue', fantasy;
+    font-size: 25px;
+}
+
+[type=text]{
+    width: 30vw;
+    height: 40px;
+    margin-left: 15px;
+    margin-top: 15px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: white;
+    
+   
+}
+
+.button{
+    width: 10vw;
+    height: 45px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+    background-color:#04AA6D;
+    color: white;
+    border: white;
+}
+.button:hover{
+    cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+
+.qr{
+margin-top: 20px;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+}

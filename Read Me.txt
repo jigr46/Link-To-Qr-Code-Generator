@@ -1,0 +1,11 @@
+**Author - Jigar Gohil**
+
+-This projects is very usefull with very simple UI. 
+-This project can convert any link to Qr code.
+-Use need a Qr code library for javascript for this:
+
+https://cdn.rawgit.com/davidshimjs/qrcodejs/gh-pages/qrcode.min.js.
+
+-we can enhance the front-end of the project as per requirement.
+
+**Thank-You**
